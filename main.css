@@ -13,7 +13,7 @@
 
 body {
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: center;
     min-height: 100vh;
     background-color: var(--dark-color);
@@ -1567,4 +1567,5 @@ body {
 
 
 /*# sourceMappingURL=main.css.map */
+
 
